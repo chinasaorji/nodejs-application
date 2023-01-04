@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.236.146.138:8181/mylandmarktech/repository/ebay-npm-repo/"
+    "registry": "http://172.31.71.221:8181/mylandmarktech/repository/ebay-npm-repo/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
@@ -26,11 +26,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LandmakTechnology/nodejs-application"
+    "url": "https://github.com/chinasaorji/nodejs-application"
   },
   "keywords": [
     "node",
-    "Landmark Technologies",
+    "Chinasa Orji",
     "express"
   ],
   "author": "Simon Legah",
