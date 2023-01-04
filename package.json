@@ -26,11 +26,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chinasaorji/nodejs-application"
+    "url": "https://github.com/LandmakTechnology/nodejs-application"
   },
   "keywords": [
     "node",
-    "Chinasa Orji",
+    "Landmark Technologies",
     "express"
   ],
   "author": "Simon Legah",
